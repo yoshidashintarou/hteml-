@@ -78,28 +78,29 @@ main {
 }
 
 .step-box {
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 90%;
+  margin: auto;
 }
 
+
 .step-box:nth-child(2) {
-margin: 20px 0;
+margin: 20px;
 }
+
 
 .step-img1 {
   height: 150px;
-  width: center 90%;
+  width: center 100%;
 }
 
 .step-img2 {
   height: 150px;
-  width: center 90%;
+  width: center 100%;
 }
 
 .step-img3 {
   height: 150px;
-  width: center 90%;
+  width: center 100%;
 }
 
 footer {
